@@ -1,0 +1,4 @@
+POLYNOMIAL REGRESSION TRAINING STARTED
+Timestamp: 20251212_011639
+Dataset loaded: 593 samples, 7 features
+Thrust range: 2.350 to 28.650 mN

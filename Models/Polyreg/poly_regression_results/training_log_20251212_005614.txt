@@ -1,0 +1,7 @@
+POLYNOMIAL REGRESSION TRAINING STARTED
+Timestamp: 20251212_005614
+Dataset loaded: 598 samples, 7 features
+Thrust range: nan to nan mN
+Train: 478 | Test: 120
+
+--- Training Polynomial Degree 1 ---

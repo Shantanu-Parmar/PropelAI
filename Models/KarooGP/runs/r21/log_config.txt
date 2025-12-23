@@ -1,0 +1,18 @@
+Karoo GP
+ launched: 2025-12-12_06-56-50-853544
+
+ kernel: r
+ precision: 6
+
+ tree depth max: 6
+ min node count: 3
+
+ genetic operator Reproduction: 0.1
+ genetic operator Point Mutation: 0.1
+ genetic operator Node Mutation: 0.2
+ genetic operator Crossover: 0.6
+
+ tournament size: 12
+ population: 800
+ number of generations: 50
+

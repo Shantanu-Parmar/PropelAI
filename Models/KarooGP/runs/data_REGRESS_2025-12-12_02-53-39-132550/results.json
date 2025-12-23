@@ -1,0 +1,30 @@
+{
+    "package": "Karoo GP",
+    "launched": "2025-12-12_02-53-39-132550",
+    "config": {
+        "kernel": "r",
+        "precision": 6,
+        "tree_type": "g",
+        "tree_depth_base": 3,
+        "tree_depth_max": 5,
+        "min_node_count": 3,
+        "genetic_operators": {
+            "reproduction": 0.1,
+            "point_mutation": 0.1,
+            "branch_mutation": 0.2,
+            "crossover": 0.6
+        },
+        "tournament_size": 10,
+        "population": 500,
+        "number_of_generations": 40
+    },
+    "outcome": "SUCCESS",
+    "fittest_tree": {
+        "id": 474,
+        "expression": "(Anodemdot - BeamC + EICC + 2*EOCC - CatodeKeepV/Anodemdot)/(DischargeC - DischargeC*EOCC/EICC + EOCC)"
+    },
+    "score": {
+        "fitness": 420.352,
+        "mean_squared_error": 39.8724
+    }
+}

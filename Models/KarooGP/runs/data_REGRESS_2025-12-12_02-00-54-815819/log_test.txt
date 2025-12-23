@@ -1,0 +1,11 @@
+Karoo GP
+ launched: 2025-12-12_02-00-54-815819
+
+
+ Tree 86 is the most fit, with expression:
+
+ 1
+
+ Regression fitness score: 0.05
+ Mean Squared Error: 7.77778e-05
+

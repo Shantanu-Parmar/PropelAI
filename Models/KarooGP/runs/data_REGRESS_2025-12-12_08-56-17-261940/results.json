@@ -1,0 +1,31 @@
+{
+    "package": "Karoo GP",
+    "launched": "2025-12-12_08-56-17-261940",
+    "config": {
+        "kernel": "r",
+        "precision": 6,
+        "tree_type": "g",
+        "tree_depth_base": 3,
+        "tree_depth_max": 5,
+        "min_node_count": 3,
+        "genetic_operators": {
+            "reproduction": 0.1,
+            "point_mutation": 0.1,
+            "branch_mutation": 0.2,
+            "crossover": 0.6
+        },
+        "tournament_size": 15,
+        "population": 1000,
+        "number_of_generations": 80
+    },
+    "outcome": "SUCCESS",
+    "fittest_tree": {
+        "id": 1000,
+        "expression": "DischargeV**32"
+    },
+    "score": {
+        "fitness": -1.7182179946091766e+165,
+        "mean_squared_error": 1.7182179946091766e+165,
+        "r2_score": -8.837781467900169e+163
+    }
+}

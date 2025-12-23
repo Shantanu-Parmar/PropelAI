@@ -1,0 +1,3 @@
+POLYNOMIAL REGRESSION TRAINING STARTED
+Timestamp: 20251212_005440
+Dataset loaded: 598 samples, 7 features

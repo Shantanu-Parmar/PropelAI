@@ -1,0 +1,11 @@
+Karoo GP
+ launched: 2025-12-12_08-56-17-261940
+
+
+ Tree 1000 is the most fit, with expression:
+
+ DischargeV**32
+
+ Regression fitness score: -1.7182179946091766e+165
+ Mean Squared Error: 1.7182179946091766e+165
+

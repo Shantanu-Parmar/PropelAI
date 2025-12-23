@@ -1,0 +1,29 @@
+POLYNOMIAL REGRESSION TRAINING STARTED
+Timestamp: 20251212_011848
+Dataset loaded: 593 samples, 7 features
+Thrust range: 2.350 to 28.650 mN
+Anode Flow range: 14.300 to 52.300 mg/s
+Train: 474 | Test: 119
+
+--- Training Polynomial Degree 1 ---
+Degree 1 to Test R²: 0.59554 | MAE: 1.868 mN | RMSE: 2.431 mN
+
+--- Training Polynomial Degree 2 ---
+Degree 2 to Test R²: 0.93665 | MAE: 0.704 mN | RMSE: 0.962 mN
+
+--- Training Polynomial Degree 3 ---
+Degree 3 to Test R²: 0.95943 | MAE: 0.495 mN | RMSE: 0.770 mN
+
+--- Training Polynomial Degree 4 ---
+Degree 4 to Test R²: -502.19737 | MAE: 31.216 mN | RMSE: 85.742 mN
+
+============================================================
+BEST MODEL: Degree 3
+Test R²  = 0.959431
+Test MAE = 0.495 mN
+Test RMSE = 0.770 mN
+
+ALL DONE! Results saved in:
+poly_regression_results
+Best model: BEST_polynomial_thruster_model.pkl
+Use it like: model = joblib.load('...pkl'); pred = model.predict(new_data)

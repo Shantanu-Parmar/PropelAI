@@ -1,0 +1,9 @@
+Karoo GP
+ launched: 2025-12-12_06-35-59-969155
+
+
+ Tree 698 is the most fit, with expression:
+
+ Anodemdot/(Anodemdot*CatodeKeepV/(DischargeV*EICC**2*EOCC**2) + EOCC*(-Anodemdot + BeamC)/(CatodeKeepV + DischargeV) + EOCC + BeamC*(DischargeC + EICC)/Anodemdot)
+
+ Regression fitness score: 0.1665367131755694
